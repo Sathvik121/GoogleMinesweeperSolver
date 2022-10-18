@@ -7,8 +7,8 @@ public class PlayGame {
 	//easy:		08 x 10
 	//medium:	14 x 18
 	//hard:		20 x 24
-	int a = 14;
-	int b = 18;
+	int a = 20;
+	int b = 24;
 	
 	Robot robot;
 	GenerateBoard gs;
